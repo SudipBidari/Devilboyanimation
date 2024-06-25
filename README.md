@@ -1,5 +1,5 @@
 # Devilboyanimation
-### Wesite description:
+### Website description:
 This website is of youtuber "Devil boy animation" who uploads animation videos on youtube. In this project, we should be able to upload videos and upload blogs. People should also be able to upload videos on it but for people to upload videos, blogs they need to get authenticated i.e, they need to sign in. The content should be deleted if found problematic or irrelevant and should also provide users to delete the content they uploaded if they want. People should evenbe able to sign out. The content will be provided tags to which they should upload their content so that it could be sorted out as content with similar tags from genre navigation bar.
 
 ### Sections
